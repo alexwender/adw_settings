@@ -15,4 +15,4 @@ sudo apt install zsh
 
 Install guide here:
 
-[Prezto](://github.com/sorin-ionescu/prezto)
+[Prezto](https://github.com/sorin-ionescu/prezto)
