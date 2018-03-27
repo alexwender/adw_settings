@@ -11,10 +11,11 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Customize to your needs...
-source /opt/ros/kinetic/setup.zsh
 
-#virtualenv wrapper
-WORKON_HOME=~/python_venvs
+# Source ros setup
+#source /opt/ros/kinetic/setup.zsh
 
-source /usr/share/virtualenvwrapper/virtualenvwrapper.sh
-
+# virtualenv wrapper
+# WORKON_HOME=$HOME/python_venvs
+# virtualenvwrapper script under ubuntu
+#source /usr/share/virtualenvwrapper/virtualenvwrapper.sh
