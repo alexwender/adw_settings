@@ -1,7 +1,7 @@
 # Settings
 
 
-# Install ZSH
+# ZSH
 
 
 ## Ubuntu install
@@ -11,8 +11,18 @@ sudo apt install zsh
 ```
 
 
-### Prezto
+## Prezto
 
 Install guide here:
 
 [Prezto](https://github.com/sorin-ionescu/prezto)
+
+
+# VIM
+
+
+## Vundle
+
+VIM Plugin Manager:
+
+* [Vundle](https://github.com/VundleVim/Vundle.vim)
